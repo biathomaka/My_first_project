@@ -2,3 +2,4 @@
 This is my first repository
 Now I'm editting my code
 Including new line
+More information
